@@ -2,6 +2,6 @@ package com.javarush;
 
 public class Hello{
 	public static void main(String... args){
-		System.out.println("com.javarush.Hello!");
+		System.out.println("Hello world!");
 	}
 }
